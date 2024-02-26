@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(_name_)
 
 # Set OpenAI API key
-openai.api_key = "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"
+openai.api_key = "Enter your api key"
 
 # Executor for running blocking tasks
 executor = concurrent.futures.ThreadPoolExecutor()
