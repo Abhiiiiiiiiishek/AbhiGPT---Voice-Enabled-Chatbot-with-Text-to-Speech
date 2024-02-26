@@ -3,11 +3,11 @@ This project is an AI assistant capable of recognizing voice commands, processin
 
 Required libraries, (Run this in terminal)
 
-pip install SpeechRecognition
-pip install simpleaudio
-pip install gtts
-pip install pydub
-pip install openai
+  pip install SpeechRecognition,
+  pip install simpleaudio,
+  pip install gtts,
+  pip install pydub,
+  pip install openai,
 
 
 Execute the python code
